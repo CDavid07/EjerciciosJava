@@ -1,0 +1,32 @@
+.btn-perrito{
+    margin: 0 auto;
+    display: block;
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#img-perrito{
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+    height: 300px;
+}
+
+.btn-gato{
+    margin: 0 auto;
+    display: block;
+    background-color: burlywood;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#img-gato{
+    display: block;
+    margin: 20px auto;
+    object-fit: cover;
+}
